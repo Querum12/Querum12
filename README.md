@@ -1,3 +1,18 @@
- # Querum12 
-![ACII Art of Coffee](https://github.com/Querum12/Querum12/ascii.png)
+ # Querum12
+```
+         {
+      {   }
+       }_{ __{
+    .-{   }   }-.
+   (   }     {   )
+   |`-.._____..-'|
+   |             ;--.
+   |            (__  \
+   |             | )  )
+   |             |/  /
+   |             /  /    -Felix Lee-
+   |            (  /
+   \             y'
+    `-.._____..-'
+```
 ## About me 
